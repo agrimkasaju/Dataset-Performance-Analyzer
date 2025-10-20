@@ -1,0 +1,6 @@
+agrim_Object_Detection_Column1_bounding_box,agrim_Object_Detection_Column1_class_id,agrim_Object_Detection_Column1_name,agrim_Object_Detection_Column1_score,class_encoded,adjusted_confidence
+[Record],43,bottle,0.5234375,0,0.5688411458333332
+[Record],43,bottle,0.66796875,0,0.5688411458333332
+[Record],46,cup,0.62890625,1,0.6615625
+[Record],46,cup,0.70703125,1,0.6615625
+[Record],81,refrigerator,0.3125,2,0.42393229166666657
