@@ -76,13 +76,19 @@ The script resolves the correct CSV file path before processing.
 
 ---
 
-## 📈 Example Output
+## 📈 Results
 
-| Class ID | Name         | Original Score | Adjusted Confidence |
-| -------- | ------------ | -------------- | ------------------- |
-| 43       | bottle       | 0.523          | 0.5688              |
-| 46       | cup          | 0.628          | 0.6615              |
-| 81       | refrigerator | 0.312          | 0.4239              |
+Below is a preview of the generated **adjusted_predictions.csv** file:
+
+| agrim_Object_Detection_Column1_class_id | agrim_Object_Detection_Column1_name | agrim_Object_Detection_Column1_score | adjusted_confidence |
+|----------------------------------------|------------------------------------|-------------------------------------|---------------------|
+| 43 | bottle | 0.523 | 0.5688 |
+| 46 | cup | 0.628 | 0.6615 |
+| 81 | refrigerator | 0.312 | 0.4239 |
+| ... | ... | ... | ... |
+
+The full dataset is available here:  
+👉 [adjusted_predictions.csv](./adjusted_predictions.csv)
 
 ---
 
